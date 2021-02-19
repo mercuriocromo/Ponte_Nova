@@ -157,7 +157,7 @@
 				<Title>vias_publicas_pgv</Title>
 				<Abstract>GH:vias_publicas_pgv ABSTRACT</Abstract>
 				<KeywordList>
-					<Keyword>group˸shp˸˸˸//github.com/mercuriocromo/Ponte_Nova/releases/download/Map_Download/vias_publicas_pgv.zip˸notListing˸˸maxZoom˸10</Keyword>
+					<Keyword>group˸shp˸˸˸disabledownload˸notListing˸˸maxZoom˸10</Keyword>
 				</KeywordList>
 				<SRS>EPSG:4326</SRS>
 				<LatLonBoundingBox minx="-43.00974991556025" miny="-20.534290420005323" maxx="-42.81839363894719" maxy="-20.33950403876312"></LatLonBoundingBox>
@@ -177,7 +177,7 @@
 				<Title>bairros</Title>
 				<Abstract>GH:bairros ABSTRACT</Abstract>
 				<KeywordList>
-					<Keyword>group˸shp˸˸˸//github.com/mercuriocromo/Ponte_Nova/releases/download/Map_Download/bairros.zip˸notListing˸˸maxZoom˸10</Keyword>
+					<Keyword>group˸shp˸˸˸disabledownload˸notListing˸˸maxZoom˸10</Keyword>
 				</KeywordList>
 				<SRS>EPSG:4326</SRS>
 				<LatLonBoundingBox minx="-43.00674273599435" miny="-20.534924846708897" maxx="-42.82155488064097" maxy="-20.33941629042491"></LatLonBoundingBox>
